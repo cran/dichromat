@@ -57,14 +57,22 @@ pie(rep(1,15),col=dichromat(terrain.colors(15)))
 
 pie(rep(1,15),col=cm.colors(15))
 pie(rep(1,15),col=dichromat(cm.colors(15)))
-
-bluescale<-function(n) rev(rainbow(n,1,1,1/6,4/6,gamma=0.5))
+bluescale<-colorRampPalette(c("#FFFFCC","#C7E9B4","#7FCDBB","#40B6C4","#2C7FB8" ,"#253494"))
 pie(rep(1,15),col=bluescale(15))
 pie(rep(1,15),col=dichromat(bluescale(15)))
 
-image(1:20,1:20,outer(1:20,1:20,"+"),col=bluescale(20))
-image(1:20,1:20,outer(1:20,1:20,"+"),col=dichromat(bluescale(20)))
-image(1:20,1:20,outer(1:20,1:20,"+"),col=dichromat(bluescale(20),"protan"))
+par(mfrow=c(2,3))
+x<-matrix(rnorm(10*10),10)
+redgreen<-colorRampPalette(c("red","green3"),method="linear")
+image(1:10,1:10,x, col=bluescale(10),
+main="blue-yellow scale")
+image(1:10,1:10,x, col=dichromat(bluescale(10)), main="deutan")
+image(1:10,1:10,x,col=dichromat(bluescale(10),"protan"), main="protan")
+
+image(1:10,1:10,x, col=redgreen(10),
+main="red-green scale")
+image(1:10,1:10,x, col=dichromat(redgreen(10)), main="deutan")
+image(1:10,1:10,x, col=dichromat(redgreen(10),"protan"), main="protan")
 
 }
 \keyword{color}% at least one, from doc/KEYWORDS

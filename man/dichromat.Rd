@@ -63,7 +63,7 @@ pie(rep(1,15),col=dichromat(bluescale(15)))
 
 par(mfrow=c(2,3))
 x<-matrix(rnorm(10*10),10)
-redgreen<-colorRampPalette(c("red","green3"),method="linear")
+redgreen<-colorRampPalette(c("red","green3"))
 image(1:10,1:10,x, col=bluescale(10),
 main="blue-yellow scale")
 image(1:10,1:10,x, col=dichromat(bluescale(10)), main="deutan")

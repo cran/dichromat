@@ -47,5 +47,5 @@ colorschemes<-list(
                    "#FFB2B2", "#99700F", "#B28B2D", "#CCA852", "#E6C77E", "#FFE8B2",
                    "#1F990F", "#3CB22D", "#60CC52", "#8AE67E", "#BCFFB2", "#710F99",
                    "#8B2DB2", "#A852CC", "#C77EE6", "#E9B2FF", "#990F20", "#B22D3C",
-                   "#CC5260", "#E67E8A", "#FFB2BC"),
+                   "#CC5260", "#E67E8A", "#FFB2BC")
                    )

@@ -26,8 +26,15 @@ dichromat(colours, type = c("deutan", "protan"))
   A vector of R colors
 }
 \author{Thomas Lumley}
+
 \references{
-F. Viénot, H. Brettel and J. D. Mollon (1999) Digital video colourmaps for checking the legibility of displays by dichromats. Color Research and Application 24, 243-252.
+T. Lumley (2006) Color-coding and color blindness in statistical
+graphics. Statistical Computing and Graphics Newsletter.
+\url{http://www.amstat-online.org/sections/graphics/newsletter/Volumes/v172.pdf}
+
+F. Viénot, H. Brettel and J. D. Mollon (1999) Digital video colourmaps
+for checking the legibility of displays by dichromats. Color Research
+and Application 24, 243-252.
 }
 \examples{
 ## from example(pie)

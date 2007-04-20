@@ -13,8 +13,7 @@
   A 256-color palette as it would appear with normal vision, and with
   two types of red-green colorblindness: protanopia and deuteronopia.
 }
-\usage{data(dalton)
-data(dalton.colors)}
+\usage{data(dalton)}
 \format{
   \code{dalton}{  A 256x3x3 array. The columns index the red, green and blue color
     values, the layers index the vision type.}

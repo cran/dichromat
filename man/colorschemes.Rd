@@ -54,7 +54,4 @@ image(1:12,1,matrix(1:12,ncol=1),col=dichromat(colorschemes$Categorical.12, "pro
    main="Categorical (12) -- protanopia", axes=FALSE)
 par(opar)
 }
-
-
-}
 \keyword{datasets}

@@ -20,7 +20,7 @@ dichromat(colours, type = c("deutan", "protan"))
   find that the transformation has little effect on the appearance of
   colours.  Colours that are indistinguishable after transformation were
   likely indistinguishable to them before transformation.  About 10\% of
-  men (and almost no women) have red-green colour blindness.
+  men (and almost no women) have some degree of red-green colour blindness.
 }
 \value{
   A vector of R colors
@@ -32,7 +32,7 @@ T. Lumley (2006) Color-coding and color blindness in statistical
 graphics. Statistical Computing and Graphics Newsletter.
 \url{http://www.amstat-online.org/sections/graphics/newsletter/Volumes/v172.pdf}
 
-F. Viénot, H. Brettel and J. D. Mollon (1999) Digital video colourmaps
+F. Vienot, H. Brettel and J. D. Mollon (1999) Digital video colourmaps
 for checking the legibility of displays by dichromats. Color Research
 and Application 24, 243-252.
 }

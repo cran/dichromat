@@ -1,6 +1,6 @@
 
 dichromat<- function(colours,type=c("deutan","protan")){
-    data(dichromat, envir=environment())
+    ##data(dichromat, envir=environment())
     require("stats")
     colours<-col2rgb(colours)
     colours<-t(colours)

@@ -46,7 +46,7 @@ Brettel H, Viénot F, Mollon, JD (1997).
 
 Lumley T (2006). Color-Coding and Color Blindness in Statistical Graphics.
   \emph{ASA Statistical Computing & Graphics Newsletter}, \bold{17}(2), 4--7.
-  \url{http://www.amstat-online.org/sections/graphics/newsletter/Volumes/v172.pdf}
+  \url{https://community.amstat.org/jointscsg-section/newsletter}
 
 Viénot F, Brettel H, Ott L, M'Barek AB, Mollon JD (1995).
   What Do Colour-Blind People See?
@@ -57,10 +57,10 @@ Viénot F, Brettel H, Mollon JD (1999).
   \emph{Color Research and Application}, \bold{24}(4), 243--252.
 
 Wikipedia (2013). \emph{Color Blindness -- Wikipedia, The Free Encyclopedia}.
-  \url{http://en.wikipedia.org/wiki/Color_blindness}, accessed 2013-01-16.
+  \url{https://en.wikipedia.org/wiki/Color_blindness}, accessed 2013-01-16.
 
 Wikipedia (2013). \emph{Dichromacy -- Wikipedia, The Free Encyclopedia}.
-  \url{http://en.wikipedia.org/wiki/Dichromacy}, accessed 2013-01-16.
+  \url{https://en.wikipedia.org/wiki/Dichromacy}, accessed 2013-01-16.
 }
 
 \seealso{\code{\link{dalton}}, \code{\link[grDevices]{rgb}}}

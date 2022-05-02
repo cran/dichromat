@@ -44,8 +44,8 @@
 The data were kindly provided by Françoise Viénot.
 
 The deutan/protan data (rounded to integers) is also available in Table 2 of
-Viénot et al. (1999). See also
-\url{http://tsi.enst.fr/~brettel/CRA24/table2.html}.
+Viénot et al. (1999).
+%% See also \url{http://tsi.enst.fr/~brettel/CRA24/table2.html}.
 }
 
 \references{

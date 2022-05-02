@@ -1,9 +1,9 @@
-dbf473f31a22485b3bf03dc0596c6232 *DESCRIPTION
-3a203d1ba247dfb1546216f4f41d76f7 *NAMESPACE
+bbd62a682e4279226744a81614d9b79c *DESCRIPTION
+921c78fa44464befe3a0cdf4a9bde6d4 *NAMESPACE
 8e1336dcde2270de6c4f2e963fab372c *R/colorschemes.R
 e2857daeba6287b727fd4245e75288f0 *R/dichromat.R
-7cd52ff9a48bcb98efc42bd78857a191 *R/sysdata.rda
-7db156e40620666ca3d65f3e8d2325cc *data/dalton.rda
-9609f11ec440006eed5e53c6f209275a *man/colorschemes.Rd
-d721ccfd73497b2fbfa3e9b028a2ba3f *man/dalton.Rd
-b34cf079b10c4484d6d18e3bf884db65 *man/dichromat.Rd
+3348ab1d0d50b7e412f8589eca90000a *R/sysdata.rda
+0daed820b493362f74b084c32cd75318 *data/dalton.rda
+6b96169844c2cda0362df5c0fc7082e9 *man/colorschemes.Rd
+519ba625ea74228c8a0aebc6ea9e1bd1 *man/dalton.Rd
+6d1f3da1de69fea1a30f3b4765c23bf1 *man/dichromat.Rd

@@ -35,7 +35,7 @@ red-green vision.
 \author{Scott Waichler <scott.waichler@pnl.gov>}
 
 \source{
-\url{http://geography.uoregon.edu/datagraphics/color_scales.htm}
+\url{https://geography.uoregon.edu/datagraphics/color_scales.htm}
 }
 
 \references{
